@@ -12,10 +12,11 @@ I created this project to improve my machine learning and Python skills. Through
 
 The project utilizes three datasets:
 
-Fake.csv: Contains fake news articles.
-True.csv: Contains real news articles.
+Fake.csv: Contains fake news articles. <br>
+True.csv: Contains real news articles. <br>
 manual_testing.csv: A dataset for testing custom news articles. You can paste any news text to determine its classification.
-Requirements
+
+## Requirements
 
 To run the project, you will need the following libraries:
 
